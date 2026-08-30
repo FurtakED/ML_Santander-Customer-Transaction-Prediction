@@ -1,7 +1,6 @@
 # Santander Customer Transaction Prediction
 
 **Соревнование:** [Santander Customer Transaction Prediction](https://www.kaggle.com/c/santander-customer-transaction-prediction)
-**Курс:** ML Start 2026, Домашнее задание #2 — Feature Engineering \& Ансамбли
 **Метрика:** ROC-AUC
 
 ## Результат
@@ -12,8 +11,8 @@
 |**Private Leaderboard**|0.89526|
 |Локальный holdout (ансамбль)|0.9098|
 
-Username на Kaggle: `<впишите свой username>`
-Скриншот результата: [`submission\\\_screenshot.png`](./Снимок экрана 2026-08-31 000332.png)
+Username на Kaggle: Лена ФУртак
+Скриншот результата: [submission_screenshot.png](/submission_screenshot.png)
 
 \---
 
