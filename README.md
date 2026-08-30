@@ -13,7 +13,7 @@
 |Локальный holdout (ансамбль)|0.9098|
 
 Username на Kaggle: `<впишите свой username>`
-Скриншот результата: [`submission\\\_screenshot.png`](./submission_screenshot.png)
+Скриншот результата: [`submission\\\_screenshot.png`](./Снимок экрана 2026-08-31 000332.png)
 
 \---
 
